@@ -19,6 +19,9 @@
   ],
   "files.associations": {
     "*.json": "jsonc",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "*.tcc": "cpp",
+    "ctime": "cpp",
+    "iomanip": "cpp"
   }
 }
