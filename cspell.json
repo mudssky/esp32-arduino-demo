@@ -8,6 +8,7 @@
   "words": [
     "GPIO",
     "ledc",
+    "oled",
     "设置所有GPIO引脚为fofo"
   ],
   // flagWords - list of words to be always considered incorrect
