@@ -43,7 +43,7 @@ void interrupt_action()
 	interrupt_count += 1;
 	u8g2.print("中断被触发了!" + String(interrupt_count));
 	u8g2.sendBuffer();
-	delay(2000);
+	// delay(2000);
 	is_interrupt = false;
 }
 void setup()
